@@ -1,0 +1,1 @@
+# se411-asset-registry
